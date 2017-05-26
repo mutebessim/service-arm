@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="service.wp2-oscam" name="WP2-OSCam" version="1.2.1" provider-name="kralex">
+    <addon id="service.wp2-oscam" name="WP2-OSCam" version="1.2.2" provider-name="kralex">
         <requires>
             <import addon="xbmc.python" version="2.1.0" />
         </requires>
@@ -10,14 +10,14 @@
         <extension point="xbmc.addon.metadata">
             <summary>OsCam Emu for LibreElec arm architecture</summary>
             <description>
-oscam-svn11380-arm_v7-webif-oscam-emu-patched for LibreElec arm architecture
+oscam-svn11384-arm_v7-webif-oscam-emu-patched for LibreElec arm architecture
     </description>
             <disclaimer>
 May be illegal in your country. if in doubt, do not install
     </disclaimer>
             <platform>all</platform>
             <news>
-updated to oscam-svn11380-arm_v7-webif-oscam-emu-patched
+updated to oscam-svn11384-arm_v7-webif-oscam-emu-patched
     </news>
             <assets>
                 <icon>resources/icon.png</icon>
