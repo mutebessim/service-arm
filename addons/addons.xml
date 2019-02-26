@@ -10,14 +10,14 @@
         <extension point="xbmc.addon.metadata">
             <summary>OsCam Emu for LibreElec arm architecture</summary>
             <description>
-oscam-svn11432-arm_v7-webif-dvbapi-oscam-emu-patched for LibreElec arm architecture
+oscam-svn111505-arm_v7-webif-dvbapi-oscam-emu-patched for LibreElec arm architecture
     </description>
             <disclaimer>
 May be illegal in your country. if in doubt, do not install
     </disclaimer>
             <platform>all</platform>
             <news>
-updated to oscam-svn11432-arm_v7-webif-dvbapi-oscam-emu-patched
+updated to oscam-svn11505-arm_v7-webif-dvbapi-oscam-emu-patched
     </news>
             <assets>
                 <icon>resources/icon.png</icon>
