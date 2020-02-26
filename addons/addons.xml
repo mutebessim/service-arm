@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="service.wp2-oscam" name="WP2-OSCam" version="1.2.12" provider-name="kralex">
-        <requires>
-            <import addon="xbmc.python" version="2.1.0" />
-        </requires>
-        <extension point="xbmc.service" library="default.py">
-            <provides></provides>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>OsCam Emu for LibreElec arm architecture</summary>
-            <description>
-oscam-svn11568-arm_v7-webif-dvbapi-oscam-emu-patched for LibreElec arm architecture
+<addon id="service.wp2-oscam"
+       name="WP2-OSCam"
+       version="1.2.13"
+       provider-name="kralex">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>OsCam Emu for LibreElec arm architecture</summary>
+    <description>
+oscam-r11574-798-arm_v7-webif-dvbapi-oscam-emu-patched for LibreElec arm architecture
     </description>
-            <disclaimer>
+    <disclaimer>
 May be illegal in your country. if in doubt, do not install
     </disclaimer>
-            <platform>all</platform>
-            <news>
-updated to oscam-svn11568-arm_v7-webif-dvbapi-oscam-emu-patched
+    <platform>all</platform>
+    <news>
+updated to oscam-r11574-798-arm_v7-webif-dvbapi-oscam-emu-patched
     </news>
-            <assets>
-                <icon>resources/icon.png</icon>
-                <fanart>resources/fanart.png</fanart>
-            </assets>
-        </extension>
-    </addon>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.png</fanart>
+
+    </assets>
+  </extension>
+</addon>
 </addons>
 
